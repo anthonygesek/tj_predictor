@@ -1,1 +1,1 @@
-# tj_predictor
+# tj_predictorThis project is an attempt to predict whether a MLB pitcher will succumb to Tommy John surgery during the current season.So far I have only examined the 2015 season stats to see if there is a correlation that lead to TJ surgery in 2016.  I have also checked for a correlation between a change in stats from 2014 to 2015 and TJ surgery in 2016.  So far I have not found anything very convincing
