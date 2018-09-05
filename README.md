@@ -5,10 +5,10 @@ This project was an attempt to predict whether or not an MLB pitcher would succu
 I examined every available stat on fangraphs (~160 features) and used data from 2009 to 2016. 
 
 Models I tried: 
--linear regression 
--decision tree with random force classifier 
--logistic regression
--KNN
+*linear regression 
+*decision tree with random force classifier 
+*logistic regression
+*KNN
 
 I was unable to accurately predict the likelihood of surgery - I couldn't get an ROC score over 0.51 (to be reliable, it should be over 0.8). I came to the conclusion that I didn't use enough data.
 
